@@ -17,4 +17,4 @@ To know an emoji's meaning, either click on the emoji icon from the list or inpu
 
 ## Additional Resources
 * [Emojipedia](https://emojipedia.org/) - Emoji explanations
-* [https://codesandbox.io/] - Online IDE
+* [CodeSandbox](https://codesandbox.io/) - Online IDE
